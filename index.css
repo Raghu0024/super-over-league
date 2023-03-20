@@ -1,0 +1,16 @@
+/* Write your code here. */
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img1 {
+  height: 150px;
+}
+
+.img2 {
+  height: 150px;
+}
